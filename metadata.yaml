@@ -1,0 +1,32 @@
+_repo: Stories-of-Tragedy_61003
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Johnson, Rossiter
+    alias: Johnson, Edwin Rossiter
+    birthdate: 1840
+    deathdate: 1931
+    gutenberg_agent_id: '3308'
+    url: http://www.gutenberg.org/2009/agents/3308
+    wikipedia: https://en.wikipedia.org/wiki/Rossiter_Johnson
+description: ''
+gutenberg_issued: '2019-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Collections'
+- !lcc 'PN'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: The murders in the Rue Morgue / Edgar Allan Poe -- The Lauson tragedy
+  / J. W. DeForest -- The iron shroud / William Mudford -- The bell-tower / Herman
+  Melville -- The Kathayan slave / Emily C. Judson -- The story of La Roche / Henry
+  Mackenzie -- The vision of sudden death / Thomas De Quincey.
+title: Stories of Tragedy
+url: http://www.gutenberg.org/ebooks/61003
